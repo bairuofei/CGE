@@ -1,0 +1,13 @@
+# Path to save log
+log_path: "/home/ruofei/code/py/CGE/log.txt"
+# Path to save current randomly generated topo-metric graph
+topo_metric_graph_path: "/home/ruofei/code/py/CGE/graph_save/"
+# Paht to save multi-robot pose graph in g2o format
+g2o_graph_save_folder: "/home/ruofei/code/py/CGE/g2o_cov/"
+
+# Path to save files for animation of final paths
+path_save_graph: "/home/ruofei/code/py/CGE/simulation/graph.pickle"
+path_save_robot_path: "/home/ruofei/code/py/CGE/simulation/path.pickle"
+path_save_original_robot_path: "/home/ruofei/code/py/CGE/simulation/original_path.pickle"
+path_save_indicator: "/home/ruofei/code/py/CGE/simulation/indicator.pickle"
+

@@ -22,7 +22,14 @@ Please follow [this link](https://arxiv.org/abs/2407.01013) to the Arxiv version
 }
 ```
 
-> Source code will be released soon!
+
+## Requirements
+
+1. Install python libraries `networkx`, `scipy`, `statistics`, `pickle`, `pyyaml`. They can be installed by using `pip install xxx`.
+
+2. Install [OR-Tools](https://developers.google.com/optimization/install) for python: `python -m pip install ortools`.
+
+3. 
 
 
 ## Results
@@ -48,3 +55,5 @@ Following are the robot's trajectories with (right) & without (left) active loop
     <!-- <figcaption style="text-align:center;">Active TSP-based Method</figcaption> -->
 </figure>
 </div>
+
+
