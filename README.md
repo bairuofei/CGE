@@ -5,7 +5,7 @@ Approximation algorithms in submodular maximization are adopted to provided perf
 
 > This work extends our previous work on single-robot SLAM-aware exploration to the multi-robot case. Follow [this IEEE RA-L paper](https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/10577228) and [open-sourced code](https://github.com/bairuofei/Graph-Based_SLAM-Aware_Exploration) for more details.
 
-## Update 07/2024
+## News
 
 Our paper has been accpeted by *IEEE/RSJ IROS 2024* !!! 
 
@@ -29,7 +29,11 @@ Please follow [this link](https://arxiv.org/abs/2407.01013) to the Arxiv version
 
 2. Install [OR-Tools](https://developers.google.com/optimization/install) for python: `python -m pip install ortools`.
 
-3. 
+## Usage
+
+1. Specify save path in `config.yaml`
+2. Run `main.py`
+3. Visualize the results by running `simulation.py`. The code will read results from paths specified in `config.yaml`.
 
 
 ## Results
