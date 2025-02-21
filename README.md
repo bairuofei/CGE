@@ -30,14 +30,13 @@ Our paper has been accpeted by *IEEE/RSJ IROS 2024* !!!
 
 Please follow [this link](https://arxiv.org/abs/2407.01013) to the Arxiv version. Please consider citing our paper if you find it helpful.
 ```
-@misc{bai2024collaborativegraphexplorationreduced,
-      title={Collaborative Graph Exploration with Reduced Pose-SLAM Uncertainty via Submodular Optimization}, 
-      author={Ruofei Bai and Shenghai Yuan and Hongliang Guo and Pengyu Yin and Wei-Yun Yau and Lihua Xie},
-      year={2024},
-      eprint={2407.01013},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2407.01013}, 
+@inproceedings{bai2024multi,
+  title={Multi-Robot Active Graph Exploration with Reduced Pose-SLAM Uncertainty via Submodular Optimization},
+  author={Bai, Ruofei and Yuan, Shenghai and Guo, Hongliang and Yin, Pengyu and Yau, Wei-Yun and Xie, Lihua},
+  booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={10229--10236},
+  year={2024},
+  organization={IEEE}
 }
 ```
 
